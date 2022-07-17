@@ -1,0 +1,11 @@
+.rmtns{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.rmtn-cont{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.title{
+    margin-left: 0;
+}

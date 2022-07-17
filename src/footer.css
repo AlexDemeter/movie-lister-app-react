@@ -1,0 +1,39 @@
+.Footer-cont{
+    height: 200px;
+    background-color: #1c212e;
+    align-items: center;
+    text-align: center;
+}
+.title-cont-foot{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.title-yellow-foot{
+    color: #ffc000;
+    font-weight: bold;
+    font-size: 25px;
+}
+.title-cont-foot p{
+    font-size: 25px;
+    color: #4c515e;
+    margin: 0;
+}
+.list-ul{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    color: #4c515e;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 40px;
+}
+.list-il{
+    cursor: pointer;
+}
+.copyright p{
+    color: #4c515e;
+}

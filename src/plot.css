@@ -1,0 +1,13 @@
+.plot-text{
+    color: #a3a7af;
+}
+.plot-cont{
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    justify-content: end;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-bottom: 40px;
+}

@@ -1,0 +1,30 @@
+input[type=text] {
+        width: 300px;
+        box-sizing: border-box;
+        border: 2px solid #ccc;
+        border-radius: 4px;
+        font-size: 16px;
+        background-color: white;
+        background-image: url('https://clipground.com/images/search-png-9.png');
+        background-size: 44px;
+        background-position: left; 
+        cursor: pointer;
+        background-repeat: no-repeat;
+        padding: 12px 20px 12px 40px;
+  }
+
+.cont-search{
+      width: 50%;
+}
+
+.form-search{
+      display: flex;
+      justify-content: space-around;
+}
+label{
+      color: white;
+}
+.btn-search{
+      cursor: pointer;
+      background-color: #ffc000;
+}

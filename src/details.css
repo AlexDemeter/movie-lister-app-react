@@ -1,0 +1,36 @@
+.informations-cont h3{
+    border-bottom: 1px solid #ffc000;
+}
+.informations-cont{
+    margin-left: 20px;
+}
+.statistics-cont h3{
+    border-bottom: 1px solid #ffc000;
+}
+.statistics-cont{
+    margin-left: 20px;
+}
+.info-type{
+    color: #a3a7af;
+}
+b{
+    margin-right: 5px;
+}
+.stat-type{
+    color: #a3a7af;
+}
+.img-cont img{
+    width: 200px;
+}
+.img-cont{
+    margin-left: 20px;
+}
+.cast-cont h3{
+    border-bottom: 1px solid #ffc000;
+}
+.cast-cont{
+    margin-left: 20px;
+}
+p{
+    color: #a3a7af
+}

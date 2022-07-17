@@ -1,0 +1,27 @@
+.navcont{
+    display: flex;
+    justify-content: space-evenly;
+    height: 100px;
+    text-align: center;
+    align-items: center;
+    background-color: #121620;
+}
+.title-yellowp{
+    color: #ffc000;
+    font-weight: bold;
+    margin-top: 0;
+    font-size: 18px;
+}
+.title-cont p{
+    font-size: 18px;
+    color: #4c515e;
+    margin: 0;
+}
+.title-cont{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.link{
+    text-decoration: none;
+}

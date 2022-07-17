@@ -1,0 +1,68 @@
+.card{
+    border: 1px solid black;
+    height: 350px;
+    width: 250px;
+    border-radius: 8px;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 20px;
+}
+.empty{
+    height: 70%;
+}
+h3{
+    color: white;
+    font-weight: bold;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    margin-left: 5px;
+}
+.made{
+    color: #4c515e;
+    margin-top: 10px;
+    margin-bottom: 0;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.title-yellow{
+    margin-top: 10px;
+    margin-bottom: 0;
+    color: #ffc000;
+}
+h5{
+    color: #4c515e;
+    margin-top: 0px;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 5px;
+}
+.rating{
+    display: flex;
+    margin-left: 5px;
+}
+p{
+    font-size: 14px;
+    margin-left: 5px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+.imdb-img{
+    height: 30px;
+}
+.rate-cont{
+    display: flex;
+    align-items: center;
+}
+.card-desc{
+    width: 100%;
+    backdrop-filter: blur(20px);
+    border-radius: 8px;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.genre{
+    color: #4c515e;
+    margin-left: 5px;
+}

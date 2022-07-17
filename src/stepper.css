@@ -1,0 +1,15 @@
+.stepper-cont{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: #121620;
+    padding-bottom: 70px;
+}
+.arrow{
+    margin: 0px 30px;
+}
+.arrow button{
+    background-color: #ffc000;
+    cursor: pointer;
+}

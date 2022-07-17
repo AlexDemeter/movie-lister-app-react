@@ -1,0 +1,16 @@
+.moviedt-cont{
+    height: max-content;
+    background-color: #121620;
+    display: flex;
+}
+.title-film{
+    color: #ffc000;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-top: 10px;
+    margin-top: 0;
+}
+.left-side{
+    width: 20%;
+}

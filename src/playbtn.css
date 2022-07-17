@@ -1,0 +1,13 @@
+.playbtn-cont{
+    width: 100%;
+    display: contents;
+}
+.btn{
+    width: 50px;
+    position: absolute;
+    transition: 0.5s ease-in-out;
+    cursor: pointer;
+}
+.btn:hover{
+    width: 60px;
+}
