@@ -2,6 +2,7 @@
 *{
   font-family: 'Oswald', sans-serif;
 }
+
 .App {
   text-align: center;
 }
@@ -47,5 +48,31 @@
   padding-right: 10%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+@media only screen and (max-width: 1010px) {
+  .index-card-div{
+      grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+@media only screen and (max-width: 763px) {
+  .index-card-div{
+      grid-template-columns: 1fr 1fr;
+  }
+}
+@media only screen and (max-width: 505px) {
+  .index-card-div{
+      grid-template-columns: 1fr;
+      align-items: center;
+      justify-content: center;
+      margin: auto;
+      width: 100%;
+      padding: 0;
+  }
+  .link{
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
 }
 

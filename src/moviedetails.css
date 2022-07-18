@@ -2,6 +2,7 @@
     height: max-content;
     background-color: #121620;
     display: flex;
+    width: fit-content;
 }
 .title-film{
     color: #ffc000;

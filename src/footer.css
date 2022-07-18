@@ -37,3 +37,11 @@
 .copyright p{
     color: #4c515e;
 }
+@media only screen and (max-width: 505px) {
+    .list-ul{
+        flex-direction: column;
+    }
+    .Footer-cont{
+        height: auto;
+    }
+  }

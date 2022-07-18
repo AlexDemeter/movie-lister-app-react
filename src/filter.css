@@ -40,3 +40,12 @@
     width: -webkit-fill-available;
     margin-right: 9px;
 }
+@media only screen and (max-width: 505px) {
+    .filt-form{
+        display: block;
+        width: 65%;
+    }
+    .apply-btn{
+        width: -webkit-fill-available;
+    }
+  }

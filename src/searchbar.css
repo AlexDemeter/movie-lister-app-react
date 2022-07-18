@@ -28,3 +28,13 @@ label{
       cursor: pointer;
       background-color: #ffc000;
 }
+@media only screen and (max-width: 814px) {
+      input[type=text] {
+            width: auto;
+      }
+    }
+    @media only screen and (max-width: 629px) {
+      .form-search{
+            width: 110%;
+      }
+    }
